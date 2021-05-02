@@ -1,5 +1,5 @@
 # CV
-Here i will update my skills,
+Here I will update my skills,
 	the competence assessment is
 	🔴🟠🟡🔵🟢
 from Red (Terrible) to Green (Really good)
