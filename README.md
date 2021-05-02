@@ -1,2 +1,23 @@
 # CV
-Here i will update my skills
+Here i will update my skills,
+	the competence assessment is
+	🔴🟠🟡🔵🟢
+from Red (Terrible) to Green (Really good)
+
+# Program
+
+													
+	OrCAD									⚪⚪⚪⚫⚫
+	Eagle 									⚪⚪⚪⚫⚫
+	Autocad  								⚪⚪⚪⚫⚫
+	Suite Office						                ⚪⚪⚪⚪⚪
+	Multisim								⚪⚪⚪⚪⚫
+	
+# Programming Languages 
+	C++ 									⚪⚪⚪⚪⚫
+	Java									⚪⚪⚪⚫⚫
+	Python									⚪⚪⚫⚫⚫
+	
+# Languages
+	Italiano								⚪⚪⚪⚪⚪
+	Inglese									⚪⚪⚪⚫⚫
