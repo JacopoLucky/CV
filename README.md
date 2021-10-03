@@ -12,6 +12,8 @@ from Red (Terrible) to Green (Really good)
 	Autocad  								⚪⚪⚪⚫⚫
 	Suite Office						                ⚪⚪⚪⚪⚪
 	Multisim								⚪⚪⚪⚪⚫
+	KiCad								 	⚪⚪⚪⚫⚫
+	VHDL									⚪⚪⚪⚪⚫
 	
 # Programming Languages 
 	C++ 									⚪⚪⚪⚪⚫
