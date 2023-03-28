@@ -8,19 +8,20 @@ from Red (Terrible) to Green (Really good)
 	Canva									🟡🟡🟡⚫⚫
 # Program
 													
-	OrCAD									🟡🟡🟡⚫⚫
-	Eagle 									🟡🟡🟡⚫⚫
+	Suite Office						                🟢🟢🟢🟢🟢
 	Autocad  								🔵🔵🔵🔵⚫
 	Fusion360								🔵🔵🔵🔵⚫
 	Ultimaker Cura								🔵🔵🔵🔵⚫
-	Suite Office						                🟢🟢🟢🟢🟢
 	Multisim								🔵🔵🔵🔵⚫
-	KiCad								 	🟡🟡🟡⚫⚫
-	Keil uVision5								🟡🟡🟡⚫⚫
 	MATLAB									🔵🔵🔵🔵⚫
-	Visual Studio Code							🟡🟡🟡⚫⚫
 	TeamViewer								🔵🔵🔵🔵⚫
 	VirtualBox								🔵🔵🔵🔵⚫
+	KiCad								 	🟡🟡🟡⚫⚫
+	Keil uVision5								🟡🟡🟡⚫⚫
+	OrCAD									🟡🟡🟡⚫⚫
+	Eagle 									🟡🟡🟡⚫⚫
+	Visual Studio Code							🟡🟡🟡⚫⚫
+
 	
 # Programming Languages 
 	C									🔵🔵🔵🔵⚫
@@ -30,5 +31,5 @@ from Red (Terrible) to Green (Really good)
 	Python									🟠🟠⚫⚫⚫
 	
 # Languages
-	Italiano								**Madrelingua**
-	Inglese									**B2 Ricettivo**
+	Italiano								*Madrelingua*
+	Inglese									*B2 Ricettivo*
