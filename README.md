@@ -1,5 +1,5 @@
 # CV
-Aggiornerò qui tutti i programmi e le conoscenze che acquisirò nel tempo. Gli darò una valutazione attraverso dei cerchi che corrispondono a (Usato una sola volta) 🔴🟠🟡🔵🟢 (Ottima pradonanza)
+Aggiornerò qui tutti i programmi e le conoscenze che acquisirò nel tempo. Gli darò una valutazione attraverso dei cerchi che corrispondono: \n (Usato una sola volta) 🔴🟠🟡🔵🟢 (Ottima pradonanza)
 
 # Site
 	Canva				🟡🟡🟡⚫⚫
