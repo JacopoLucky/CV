@@ -1,8 +1,5 @@
 # CV
-Here I will update my skills,
-	the competence assessment is
-	🔴🟠🟡🔵🟢
-from Red (Terrible) to Green (Really good)
+Aggiornerò qui tutti i programmi e le conoscenze che acquisirò nel tempo. Gli darò una valutazione attraverso dei cerchi che corrispondono a (Usato una sola volta) 🔴🟠🟡🔵🟢 (Ottima pradonanza)
 
 # Site
 	Canva				🟡🟡🟡⚫⚫
